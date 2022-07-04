@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+6610,26.99,No,No,No,0.0,30.0,No,Female,75-79,White,No,Yes,Good,7.0,No,No,Yes
+6611,32.67,Yes,No,No,0.0,0.0,No,Male,60-64,White,Yes,Yes,Very good,8.0,No,No,No
+6612,27.81,No,No,No,0.0,0.0,No,Male,35-39,Hispanic,Yes,Yes,Very good,7.0,No,No,No
+6613,33.89,Yes,No,No,1.0,2.0,No,Female,45-49,White,Yes,Yes,Very good,7.0,Yes,No,No
+6614,32.85,No,Yes,No,0.0,10.0,No,Female,75-79,White,No,Yes,Fair,7.0,No,No,Yes
+6615,30.43,Yes,No,No,0.0,0.0,No,Female,45-49,American Indian/Alaskan Native,No,Yes,Good,7.0,Yes,No,No
+6616,24.78,Yes,Yes,No,0.0,2.0,No,Female,18-24,White,No,Yes,Very good,7.0,No,No,No
+6617,34.85,No,No,No,0.0,0.0,No,Male,18-24,White,No,Yes,Excellent,8.0,No,No,No
+6618,37.86,No,No,No,0.0,15.0,No,Male,60-64,White,Yes,No,Poor,4.0,Yes,No,No
+6619,29.33,No,No,No,5.0,30.0,No,Male,40-44,American Indian/Alaskan Native,No,Yes,Very good,7.0,No,No,No

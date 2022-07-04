@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+9690,21.11,No,No,No,0.0,0.0,No,Female,18-24,White,No,Yes,Very good,7.0,No,No,No
+9691,31.54,No,Yes,No,7.0,15.0,No,Male,60-64,Black,Yes,No,Good,6.0,Yes,No,No
+9692,23.06,No,No,No,7.0,10.0,No,Female,60-64,White,No,No,Very good,8.0,No,No,No
+9693,23.61,Yes,Yes,No,0.0,0.0,No,Female,55-59,White,No,Yes,Excellent,4.0,No,No,No
+9694,23.52,No,Yes,No,0.0,0.0,No,Female,60-64,Black,Yes,Yes,Very good,8.0,No,No,No
+9695,29.19,No,No,No,1.0,2.0,Yes,Female,80 or older,White,No,Yes,Very good,7.0,Yes,No,No
+9696,23.37,Yes,Yes,No,0.0,15.0,Yes,Female,35-39,White,No,Yes,Very good,7.0,No,No,No
+9697,24.14,No,No,No,0.0,2.0,No,Female,35-39,White,No,Yes,Very good,8.0,Yes,No,No
+9698,26.37,Yes,No,No,0.0,0.0,No,Male,80 or older,White,No,Yes,Good,8.0,No,No,No
+9699,22.77,No,No,No,0.0,0.0,No,Male,50-54,White,Yes,Yes,Very good,7.0,Yes,No,No

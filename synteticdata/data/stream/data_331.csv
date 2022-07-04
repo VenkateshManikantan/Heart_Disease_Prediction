@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+3310,26.15,No,No,No,0.0,30.0,Yes,Female,55-59,White,No,Yes,Very good,7.0,Yes,No,No
+3311,23.96,No,No,No,5.0,0.0,No,Male,30-34,White,No,Yes,Fair,7.0,No,No,No
+3312,24.62,No,No,No,0.0,0.0,No,Male,45-49,Black,No,No,Good,8.0,No,No,No
+3313,22.72,No,Yes,No,0.0,0.0,No,Female,25-29,White,Yes,Yes,Excellent,7.0,Yes,No,No
+3314,32.0,Yes,No,No,0.0,0.0,Yes,Female,80 or older,White,Yes,No,Good,9.0,No,No,No
+3315,27.68,Yes,No,No,0.0,0.0,No,Male,55-59,White,Yes,Yes,Very good,8.0,No,No,No
+3316,43.07,No,No,No,7.0,0.0,Yes,Female,65-69,White,Yes,No,Fair,8.0,No,No,No
+3317,22.3,Yes,No,No,2.0,10.0,Yes,Male,70-74,Black,Yes,No,Fair,8.0,Yes,No,No
+3318,25.58,Yes,Yes,No,0.0,0.0,No,Female,70-74,White,No,Yes,Very good,7.0,No,No,No
+3319,28.74,Yes,No,No,0.0,0.0,No,Female,70-74,White,No,Yes,Very good,8.0,No,No,No

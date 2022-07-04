@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+9750,27.3,Yes,No,No,0.0,0.0,Yes,Male,55-59,White,No,No,Very good,8.0,No,No,No
+9751,35.38,No,No,No,0.0,2.0,No,Female,50-54,White,Yes,Yes,Excellent,5.0,No,No,No
+9752,31.53,Yes,Yes,No,0.0,0.0,Yes,Male,80 or older,White,No,Yes,Very good,7.0,No,No,Yes
+9753,30.83,No,No,No,0.0,1.0,No,Female,70-74,White,No,Yes,Very good,8.0,No,No,Yes
+9754,25.16,No,No,No,0.0,0.0,No,Male,75-79,Black,No,Yes,Excellent,8.0,No,No,No
+9755,22.01,No,Yes,No,0.0,0.0,No,Male,45-49,White,No,Yes,Fair,7.0,Yes,No,No
+9756,25.98,Yes,No,No,2.0,30.0,Yes,Female,50-54,Black,"No, borderline diabetes",Yes,Good,8.0,No,No,No
+9757,30.94,Yes,No,Yes,30.0,30.0,Yes,Female,60-64,Hispanic,Yes,No,Poor,4.0,No,Yes,No
+9758,30.09,No,No,No,0.0,0.0,No,Female,80 or older,White,No,Yes,Very good,8.0,No,No,No
+9759,29.58,Yes,No,No,0.0,0.0,No,Male,65-69,White,No,Yes,Good,7.0,No,No,No

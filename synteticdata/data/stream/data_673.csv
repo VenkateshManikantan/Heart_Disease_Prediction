@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+6730,23.11,Yes,Yes,No,30.0,10.0,No,Male,45-49,White,No,No,Fair,7.0,No,No,No
+6731,29.7,Yes,No,No,0.0,0.0,No,Male,70-74,White,No,Yes,Very good,7.0,No,No,No
+6732,26.68,No,No,No,0.0,0.0,No,Female,18-24,Other,No,No,Very good,7.0,No,No,No
+6733,27.81,Yes,Yes,No,0.0,2.0,No,Male,45-49,American Indian/Alaskan Native,Yes,Yes,Very good,7.0,No,No,No
+6734,24.93,Yes,No,No,0.0,0.0,No,Female,25-29,White,Yes,Yes,Excellent,8.0,No,No,No
+6735,30.21,No,No,No,1.0,0.0,No,Male,18-24,White,No,Yes,Very good,8.0,No,No,No
+6736,25.28,No,No,No,0.0,0.0,No,Male,50-54,White,No,Yes,Excellent,8.0,No,No,No
+6737,23.73,No,Yes,No,0.0,5.0,No,Female,65-69,White,No,Yes,Fair,7.0,Yes,No,No
+6738,29.01,Yes,No,No,0.0,0.0,No,Male,65-69,White,Yes,Yes,Poor,8.0,No,No,No
+6739,31.17,Yes,No,No,30.0,30.0,Yes,Female,35-39,American Indian/Alaskan Native,Yes,No,Fair,8.0,Yes,Yes,No

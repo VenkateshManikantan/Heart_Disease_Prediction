@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+3370,31.76,Yes,No,Yes,0.0,15.0,No,Female,60-64,White,No,Yes,Fair,4.0,No,Yes,No
+3371,29.59,Yes,No,No,2.0,0.0,No,Male,70-74,Asian,"No, borderline diabetes",No,Good,7.0,No,No,No
+3372,25.14,Yes,No,No,0.0,3.0,No,Female,75-79,White,No,Yes,Fair,7.0,No,No,No
+3373,27.11,No,No,No,0.0,0.0,No,Male,45-49,White,No,Yes,Very good,7.0,No,No,No
+3374,26.36,Yes,No,No,0.0,0.0,No,Male,45-49,White,No,No,Very good,7.0,No,No,No
+3375,26.93,No,Yes,No,7.0,30.0,Yes,Female,60-64,Hispanic,No,No,Very good,7.0,No,No,No
+3376,33.09,No,No,No,7.0,0.0,No,Female,30-34,White,No,Yes,Very good,7.0,No,No,No
+3377,42.33,Yes,No,No,30.0,10.0,Yes,Male,50-54,American Indian/Alaskan Native,Yes,No,Fair,5.0,No,No,No
+3378,21.96,No,No,No,0.0,0.0,No,Female,80 or older,White,No,Yes,Very good,8.0,Yes,No,No
+3379,27.22,No,No,No,0.0,0.0,No,Male,30-34,White,No,Yes,Excellent,7.0,No,No,No

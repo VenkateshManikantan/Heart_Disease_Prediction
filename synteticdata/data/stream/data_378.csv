@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+3780,30.5,Yes,No,No,0.0,0.0,No,Male,75-79,Hispanic,No,Yes,Very good,8.0,No,No,Yes
+3781,29.16,Yes,No,No,2.0,15.0,Yes,Male,45-49,White,No,Yes,Fair,6.0,Yes,No,Yes
+3782,38.62,Yes,No,No,3.0,0.0,No,Male,70-74,White,Yes,Yes,Very good,9.0,No,No,No
+3783,36.56,No,No,No,0.0,0.0,No,Male,55-59,White,No,No,Very good,7.0,No,No,No
+3784,23.95,No,Yes,No,0.0,0.0,No,Female,80 or older,White,No,Yes,Very good,8.0,No,No,No
+3785,25.21,Yes,No,No,0.0,0.0,No,Male,70-74,American Indian/Alaskan Native,Yes,No,Good,8.0,No,No,No
+3786,27.62,No,No,No,0.0,0.0,No,Female,50-54,Black,No,Yes,Very good,8.0,No,No,No
+3787,31.2,No,Yes,No,0.0,0.0,No,Female,50-54,White,No,Yes,Excellent,6.0,No,No,No
+3788,29.36,No,No,No,0.0,0.0,No,Male,75-79,White,Yes,No,Very good,7.0,No,No,No
+3789,29.15,Yes,Yes,No,1.0,10.0,No,Male,60-64,White,No,Yes,Fair,7.0,No,No,Yes

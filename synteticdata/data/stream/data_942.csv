@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+9420,28.27,No,No,No,0.0,0.0,No,Male,80 or older,White,No,Yes,Good,7.0,No,No,No
+9421,42.2,Yes,No,No,0.0,0.0,Yes,Male,65-69,White,Yes,No,Poor,4.0,Yes,No,No
+9422,26.96,No,No,No,0.0,0.0,No,Male,60-64,White,No,Yes,Very good,7.0,Yes,No,No
+9423,28.77,Yes,No,No,0.0,0.0,No,Male,55-59,White,Yes,No,Very good,6.0,No,No,No
+9424,29.67,No,No,No,0.0,0.0,No,Male,75-79,White,Yes,No,Very good,6.0,No,No,No
+9425,29.97,Yes,No,No,0.0,0.0,No,Male,80 or older,White,No,Yes,Very good,7.0,No,No,No
+9426,23.81,No,No,No,0.0,0.0,No,Male,40-44,Asian,No,Yes,Very good,8.0,No,No,No
+9427,25.82,Yes,No,No,0.0,0.0,No,Male,50-54,White,No,Yes,Very good,7.0,No,No,No
+9428,23.73,Yes,Yes,No,0.0,0.0,No,Male,40-44,Black,No,Yes,Very good,8.0,No,No,No
+9429,27.9,Yes,No,No,0.0,0.0,No,Male,30-34,Black,Yes,Yes,Good,8.0,No,No,No

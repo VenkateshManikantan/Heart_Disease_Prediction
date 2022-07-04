@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+3680,27.22,No,No,No,0.0,2.0,No,Female,50-54,White,Yes,Yes,Excellent,6.0,No,No,No
+3681,31.29,No,No,No,0.0,30.0,No,Female,45-49,White,Yes,Yes,Fair,7.0,No,No,No
+3682,23.58,Yes,Yes,No,0.0,0.0,No,Male,70-74,White,No,No,Excellent,6.0,No,No,No
+3683,24.52,Yes,No,Yes,5.0,0.0,Yes,Female,75-79,White,Yes,No,Fair,8.0,No,No,No
+3684,24.15,Yes,Yes,No,0.0,0.0,No,Male,80 or older,White,No,Yes,Very good,3.0,No,No,Yes
+3685,23.62,Yes,No,No,0.0,0.0,No,Male,55-59,White,Yes,Yes,Very good,7.0,Yes,No,No
+3686,21.84,No,No,No,0.0,5.0,No,Male,50-54,White,No,Yes,Excellent,7.0,No,No,No
+3687,38.44,Yes,No,Yes,30.0,0.0,Yes,Female,60-64,Black,Yes,No,Fair,9.0,No,No,No
+3688,21.12,Yes,Yes,No,0.0,2.0,No,Male,25-29,White,No,Yes,Very good,7.0,No,No,No
+3689,24.93,Yes,No,No,0.0,0.0,Yes,Female,70-74,White,No,No,Good,7.0,No,No,Yes

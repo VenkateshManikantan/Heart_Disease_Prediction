@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+4910,28.58,No,No,No,5.0,0.0,No,Female,30-34,White,Yes (during pregnancy),No,Good,7.0,No,No,No
+4911,32.46,Yes,Yes,No,0.0,2.0,No,Male,65-69,White,No,Yes,Very good,8.0,No,No,No
+4912,27.45,Yes,Yes,No,7.0,15.0,No,Female,60-64,White,No,Yes,Very good,7.0,No,No,No
+4913,24.17,Yes,No,No,0.0,5.0,No,Female,30-34,White,Yes,Yes,Good,6.0,No,No,No
+4914,39.08,No,No,No,0.0,0.0,Yes,Female,60-64,White,Yes,No,Poor,7.0,No,No,No
+4915,30.89,Yes,Yes,Yes,30.0,10.0,Yes,Female,75-79,White,Yes,No,Poor,4.0,No,No,No
+4916,33.98,No,No,No,0.0,0.0,No,Male,75-79,White,No,Yes,Very good,7.0,No,No,No
+4917,26.64,Yes,Yes,No,1.0,15.0,No,Male,55-59,White,Yes,Yes,Good,7.0,No,No,No
+4918,21.41,No,Yes,No,1.0,15.0,No,Female,40-44,White,No,Yes,Fair,7.0,No,No,No
+4919,29.01,No,No,No,0.0,0.0,No,Male,75-79,White,No,Yes,Fair,7.0,No,No,No

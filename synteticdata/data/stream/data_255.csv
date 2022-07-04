@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+2550,27.07,Yes,No,Yes,0.0,0.0,Yes,Female,40-44,White,"No, borderline diabetes",Yes,Fair,4.0,No,No,No
+2551,31.41,Yes,No,No,0.0,30.0,No,Male,45-49,White,No,No,Good,5.0,Yes,No,No
+2552,30.06,Yes,No,No,0.0,0.0,Yes,Male,50-54,Black,Yes,No,Very good,7.0,No,No,No
+2553,40.02,No,No,No,3.0,0.0,No,Female,35-39,Asian,No,Yes,Very good,7.0,No,No,No
+2554,35.26,Yes,No,No,1.0,1.0,No,Female,65-69,White,"No, borderline diabetes",Yes,Fair,7.0,No,No,No
+2555,33.84,Yes,No,No,0.0,5.0,No,Male,65-69,White,No,Yes,Very good,8.0,No,No,No
+2556,41.88,No,No,No,1.0,5.0,Yes,Male,70-74,White,No,Yes,Very good,7.0,Yes,No,No
+2557,29.39,No,No,No,0.0,0.0,No,Female,80 or older,White,Yes,Yes,Very good,7.0,No,No,No
+2558,22.32,Yes,Yes,No,0.0,2.0,No,Male,65-69,White,Yes,Yes,Very good,8.0,No,No,No
+2559,23.54,No,Yes,No,2.0,10.0,No,Male,30-34,White,No,Yes,Very good,6.0,No,No,No

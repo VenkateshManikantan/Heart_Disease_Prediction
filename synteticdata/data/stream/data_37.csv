@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+370,25.21,Yes,No,No,0.0,0.0,No,Male,80 or older,Asian,Yes,Yes,Very good,7.0,No,No,Yes
+371,32.15,Yes,Yes,No,30.0,30.0,Yes,Female,50-54,White,Yes,Yes,Fair,8.0,Yes,No,No
+372,34.97,Yes,No,No,7.0,30.0,Yes,Male,60-64,Black,Yes,No,Poor,8.0,No,No,No
+373,42.73,Yes,No,No,0.0,0.0,No,Male,35-39,White,No,Yes,Very good,8.0,No,No,No
+374,29.86,No,Yes,No,2.0,0.0,No,Female,70-74,White,No,Yes,Very good,8.0,No,No,No
+375,31.08,Yes,No,No,0.0,10.0,No,Male,60-64,White,No,Yes,Very good,8.0,No,No,Yes
+376,24.35,Yes,No,No,0.0,0.0,No,Female,60-64,Black,No,No,Good,7.0,No,No,No
+377,28.13,No,Yes,No,0.0,1.0,No,Male,50-54,White,No,Yes,Very good,7.0,Yes,No,No
+378,32.67,Yes,No,No,0.0,2.0,Yes,Female,45-49,White,No,Yes,Fair,6.0,Yes,No,No
+379,43.66,No,No,No,0.0,0.0,No,Male,50-54,Black,No,Yes,Good,8.0,No,No,No

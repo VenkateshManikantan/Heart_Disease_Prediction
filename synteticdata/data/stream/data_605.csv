@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+6050,25.36,No,Yes,No,0.0,5.0,No,Male,30-34,White,No,Yes,Very good,8.0,Yes,No,No
+6051,27.7,No,No,No,0.0,0.0,No,Male,50-54,White,No,Yes,Very good,7.0,No,No,No
+6052,25.3,Yes,Yes,No,0.0,0.0,No,Male,55-59,White,No,Yes,Excellent,8.0,No,No,No
+6053,23.56,Yes,No,No,30.0,30.0,No,Male,45-49,White,No,No,Fair,4.0,No,No,No
+6054,29.84,Yes,No,No,0.0,0.0,No,Male,80 or older,White,No,Yes,Very good,7.0,No,No,Yes
+6055,24.71,Yes,No,No,0.0,0.0,Yes,Female,75-79,White,No,Yes,Fair,7.0,No,No,Yes
+6056,29.67,Yes,Yes,No,2.0,15.0,No,Female,30-34,White,No,Yes,Very good,8.0,No,No,Yes
+6057,26.36,No,No,No,0.0,0.0,No,Female,60-64,White,No,Yes,Very good,7.0,No,No,No
+6058,38.13,No,No,No,0.0,0.0,Yes,Female,40-44,White,No,Yes,Very good,7.0,Yes,No,No
+6059,33.14,Yes,Yes,No,30.0,10.0,Yes,Female,45-49,White,No,Yes,Fair,6.0,Yes,No,Yes

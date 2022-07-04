@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+6840,27.34,Yes,No,No,0.0,0.0,No,Male,75-79,Hispanic,No,No,Very good,7.0,No,No,No
+6841,24.75,Yes,Yes,No,0.0,0.0,No,Female,70-74,White,No,Yes,Very good,8.0,No,No,No
+6842,30.18,Yes,No,No,30.0,0.0,Yes,Female,65-69,White,Yes,Yes,Fair,8.0,No,No,No
+6843,34.0,No,Yes,No,7.0,15.0,Yes,Female,60-64,White,Yes,Yes,Fair,4.0,Yes,No,No
+6844,24.59,No,No,No,0.0,30.0,No,Female,75-79,American Indian/Alaskan Native,No,Yes,Excellent,3.0,No,No,Yes
+6845,34.09,No,No,No,0.0,0.0,No,Male,18-24,White,No,Yes,Excellent,8.0,No,No,No
+6846,27.06,Yes,Yes,No,5.0,0.0,No,Female,45-49,White,No,No,Very good,6.0,No,No,No
+6847,29.53,Yes,Yes,No,0.0,0.0,No,Male,50-54,White,Yes,Yes,Very good,7.0,No,No,No
+6848,29.34,No,No,No,0.0,5.0,Yes,Female,45-49,White,Yes,Yes,Very good,6.0,No,No,No
+6849,22.98,No,No,No,30.0,0.0,Yes,Female,45-49,White,No,Yes,Fair,6.0,Yes,No,No

@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+4930,27.22,No,No,No,0.0,0.0,No,Male,25-29,White,No,Yes,Very good,7.0,No,No,No
+4931,29.53,Yes,No,No,0.0,0.0,No,Female,55-59,White,No,No,Very good,8.0,No,No,No
+4932,28.95,Yes,Yes,No,5.0,0.0,No,Male,50-54,White,No,Yes,Excellent,8.0,No,No,No
+4933,37.88,No,No,No,0.0,2.0,No,Male,30-34,White,No,Yes,Very good,7.0,No,No,No
+4934,44.25,Yes,No,No,1.0,10.0,No,Male,65-69,White,Yes,No,Fair,6.0,Yes,No,No
+4935,39.97,No,No,No,0.0,0.0,Yes,Male,60-64,Black,Yes,No,Very good,6.0,No,No,No
+4936,31.75,No,No,No,0.0,0.0,No,Male,80 or older,White,No,Yes,Excellent,8.0,No,No,No
+4937,35.39,No,No,No,0.0,0.0,No,Male,50-54,White,Yes,Yes,Excellent,7.0,No,No,No
+4938,36.44,Yes,No,No,0.0,1.0,Yes,Male,45-49,White,No,No,Fair,8.0,No,No,No
+4939,27.97,No,No,No,0.0,2.0,No,Male,45-49,White,No,Yes,Very good,7.0,No,No,No

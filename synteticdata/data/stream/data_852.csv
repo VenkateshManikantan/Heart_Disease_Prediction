@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+8520,35.09,Yes,No,No,30.0,30.0,Yes,Male,65-69,White,Yes,Yes,Very good,4.0,No,No,No
+8521,24.38,Yes,No,No,30.0,15.0,Yes,Male,60-64,White,Yes,Yes,Poor,4.0,No,No,Yes
+8522,26.1,Yes,No,No,0.0,0.0,No,Female,80 or older,White,Yes,Yes,Very good,7.0,No,No,Yes
+8523,25.25,Yes,Yes,No,2.0,30.0,No,Female,65-69,White,No,No,Fair,6.0,No,No,Yes
+8524,22.32,No,No,No,0.0,15.0,No,Female,45-49,White,Yes,Yes,Very good,8.0,No,No,No
+8525,20.13,No,No,No,0.0,0.0,No,Male,75-79,White,No,Yes,Very good,8.0,No,No,Yes
+8526,25.74,No,No,No,0.0,0.0,No,Female,50-54,White,No,Yes,Excellent,7.0,No,No,No
+8527,31.44,Yes,No,No,0.0,0.0,No,Female,55-59,White,No,No,Very good,8.0,No,No,No
+8528,26.53,Yes,No,No,0.0,0.0,No,Female,45-49,White,No,Yes,Very good,8.0,No,No,No
+8529,31.21,No,No,No,0.0,0.0,No,Male,45-49,Hispanic,Yes,Yes,Very good,5.0,No,No,Yes

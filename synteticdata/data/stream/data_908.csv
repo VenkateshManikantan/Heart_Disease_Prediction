@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+9080,27.01,Yes,Yes,No,2.0,15.0,Yes,Female,45-49,White,No,Yes,Fair,7.0,Yes,No,No
+9081,31.69,No,No,No,0.0,0.0,No,Male,70-74,White,No,Yes,Very good,8.0,No,No,No
+9082,25.12,Yes,No,No,0.0,0.0,No,Male,75-79,White,Yes,Yes,Very good,8.0,No,No,No
+9083,24.63,Yes,No,No,7.0,30.0,No,Female,50-54,White,No,No,Fair,5.0,No,No,No
+9084,31.58,No,No,No,0.0,0.0,No,Female,55-59,Other,Yes,Yes,Very good,7.0,No,No,No
+9085,24.66,Yes,Yes,No,30.0,0.0,Yes,Female,70-74,American Indian/Alaskan Native,No,No,Fair,9.0,No,Yes,Yes
+9086,27.95,No,No,No,0.0,0.0,No,Male,75-79,White,No,Yes,Poor,8.0,No,No,Yes
+9087,22.01,Yes,No,No,0.0,0.0,Yes,Male,45-49,White,No,No,Poor,4.0,No,No,Yes
+9088,29.43,No,Yes,No,0.0,5.0,No,Female,35-39,Black,No,Yes,Very good,7.0,No,No,No
+9089,23.93,Yes,Yes,No,0.0,2.0,No,Male,25-29,White,Yes,Yes,Very good,8.0,Yes,No,No

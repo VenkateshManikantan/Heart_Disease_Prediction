@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+3230,25.49,Yes,No,No,0.0,0.0,No,Male,25-29,White,No,Yes,Excellent,8.0,No,No,No
+3231,32.16,Yes,No,No,0.0,0.0,Yes,Male,45-49,American Indian/Alaskan Native,Yes,No,Good,5.0,No,No,No
+3232,23.55,Yes,No,Yes,0.0,0.0,Yes,Male,75-79,White,No,Yes,Good,7.0,No,No,Yes
+3233,28.51,Yes,No,No,0.0,0.0,No,Male,60-64,White,No,Yes,Excellent,6.0,No,No,No
+3234,32.2,No,No,No,0.0,0.0,No,Male,65-69,White,No,Yes,Good,8.0,No,No,No
+3235,26.02,No,No,No,0.0,1.0,No,Female,40-44,White,No,Yes,Fair,9.0,Yes,Yes,No
+3236,26.09,Yes,No,No,0.0,2.0,No,Male,25-29,Black,No,No,Good,5.0,No,No,No
+3237,21.78,No,No,No,0.0,0.0,No,Male,80 or older,White,No,No,Good,9.0,No,No,No
+3238,23.26,No,No,No,0.0,5.0,No,Male,45-49,Black,No,Yes,Excellent,8.0,No,No,No
+3239,33.05,Yes,No,No,0.0,0.0,No,Female,45-49,Black,No,No,Very good,6.0,No,No,No

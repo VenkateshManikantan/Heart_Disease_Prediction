@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+4500,34.54,No,No,No,0.0,0.0,No,Male,40-44,White,No,Yes,Very good,7.0,Yes,No,No
+4501,30.95,No,No,No,30.0,10.0,Yes,Female,75-79,White,Yes,No,Poor,7.0,No,No,No
+4502,32.17,Yes,No,No,0.0,1.0,Yes,Female,45-49,American Indian/Alaskan Native,Yes,No,Fair,8.0,Yes,No,No
+4503,24.16,No,No,No,0.0,0.0,No,Male,18-24,White,No,Yes,Very good,8.0,No,No,No
+4504,23.61,No,No,No,0.0,0.0,No,Female,30-34,White,No,No,Good,7.0,No,No,No
+4505,28.18,No,Yes,No,0.0,0.0,No,Male,50-54,White,No,Yes,Very good,7.0,No,No,Yes
+4506,39.75,Yes,No,No,0.0,0.0,Yes,Female,40-44,White,Yes,Yes,Very good,6.0,No,No,No
+4507,27.52,No,No,No,0.0,30.0,No,Male,30-34,White,No,Yes,Very good,7.0,No,No,No
+4508,34.79,No,No,No,0.0,0.0,No,Male,55-59,American Indian/Alaskan Native,Yes,No,Good,7.0,No,No,No
+4509,26.47,Yes,Yes,No,5.0,10.0,No,Male,45-49,American Indian/Alaskan Native,No,Yes,Good,4.0,No,No,No

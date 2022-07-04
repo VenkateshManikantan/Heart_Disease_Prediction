@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+5940,33.65,Yes,No,No,0.0,0.0,No,Male,75-79,White,No,Yes,Very good,8.0,No,No,No
+5941,22.86,Yes,Yes,No,0.0,0.0,No,Male,60-64,White,Yes,No,Excellent,7.0,No,No,No
+5942,42.63,Yes,No,Yes,0.0,0.0,Yes,Male,45-49,White,Yes,Yes,Fair,9.0,No,No,No
+5943,30.7,No,Yes,No,2.0,0.0,No,Female,55-59,Hispanic,Yes,Yes,Fair,7.0,No,No,No
+5944,29.96,Yes,No,No,2.0,0.0,Yes,Female,60-64,White,No,Yes,Fair,6.0,No,No,No
+5945,38.09,No,No,No,0.0,0.0,No,Female,65-69,White,No,Yes,Excellent,8.0,No,No,No
+5946,35.64,Yes,Yes,No,30.0,10.0,Yes,Female,75-79,White,No,No,Poor,7.0,No,No,No
+5947,25.14,No,No,No,0.0,0.0,No,Male,75-79,White,No,No,Very good,7.0,No,No,Yes
+5948,29.0,Yes,No,No,0.0,2.0,No,Male,60-64,White,No,Yes,Very good,7.0,Yes,No,No
+5949,31.14,No,No,No,30.0,10.0,Yes,Male,65-69,White,Yes,Yes,Poor,7.0,No,No,No

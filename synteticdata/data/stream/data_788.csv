@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+7880,43.22,No,Yes,No,0.0,0.0,No,Male,55-59,White,No,Yes,Good,8.0,No,No,No
+7881,42.26,Yes,No,No,0.0,0.0,Yes,Female,55-59,White,Yes,Yes,Fair,8.0,No,Yes,No
+7882,27.12,Yes,Yes,No,0.0,30.0,No,Male,40-44,White,No,Yes,Excellent,7.0,No,No,No
+7883,32.25,Yes,Yes,No,0.0,10.0,No,Male,45-49,White,No,No,Very good,7.0,No,No,No
+7884,28.6,No,No,No,0.0,30.0,No,Male,65-69,White,No,Yes,Very good,6.0,No,No,No
+7885,39.9,No,No,No,0.0,0.0,Yes,Female,65-69,Black,Yes,No,Very good,8.0,No,No,No
+7886,27.08,No,No,No,0.0,5.0,No,Male,65-69,White,No,Yes,Very good,7.0,No,No,No
+7887,27.26,Yes,No,No,5.0,0.0,Yes,Female,80 or older,White,No,Yes,Good,8.0,No,No,No
+7888,26.57,No,No,No,0.0,0.0,No,Male,50-54,White,No,Yes,Very good,7.0,Yes,No,No
+7889,26.86,No,No,No,0.0,0.0,No,Female,50-54,American Indian/Alaskan Native,No,Yes,Excellent,5.0,No,No,No

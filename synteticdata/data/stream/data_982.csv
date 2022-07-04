@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+9820,25.0,Yes,No,No,1.0,10.0,No,Male,60-64,White,No,No,Fair,7.0,No,No,No
+9821,25.41,Yes,Yes,No,1.0,10.0,Yes,Female,50-54,White,Yes,Yes,Fair,8.0,No,No,Yes
+9822,27.16,Yes,Yes,No,0.0,30.0,No,Male,30-34,White,Yes,Yes,Fair,7.0,No,No,No
+9823,23.68,No,No,No,1.0,0.0,No,Female,80 or older,White,No,Yes,Very good,7.0,Yes,No,No
+9824,27.13,Yes,No,No,0.0,0.0,No,Male,80 or older,White,Yes,Yes,Very good,8.0,No,No,No
+9825,31.7,No,Yes,No,0.0,0.0,No,Male,65-69,White,No,No,Very good,7.0,No,No,No
+9826,31.14,Yes,No,No,0.0,0.0,No,Female,70-74,White,Yes,No,Very good,6.0,Yes,No,No
+9827,28.15,Yes,No,No,0.0,15.0,No,Female,35-39,American Indian/Alaskan Native,Yes,Yes,Very good,7.0,No,No,No
+9828,24.82,No,No,No,0.0,0.0,No,Male,80 or older,White,No,Yes,Very good,7.0,No,No,Yes
+9829,34.26,Yes,No,No,0.0,30.0,No,Female,45-49,White,No,Yes,Good,6.0,No,No,No

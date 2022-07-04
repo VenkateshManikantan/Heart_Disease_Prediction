@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+20,35.19,Yes,Yes,No,0.0,0.0,No,Male,45-49,American Indian/Alaskan Native,No,Yes,Very good,7.0,No,No,No
+21,23.7,Yes,Yes,No,0.0,0.0,No,Male,45-49,White,No,Yes,Very good,7.0,No,No,No
+22,30.87,No,Yes,No,0.0,0.0,No,Male,75-79,White,No,Yes,Good,8.0,No,Yes,No
+23,32.06,No,No,No,5.0,1.0,No,Female,35-39,White,Yes,Yes,Very good,8.0,Yes,No,No
+24,25.96,No,No,No,0.0,0.0,No,Female,40-44,White,No,No,Very good,7.0,No,No,No
+25,25.76,No,Yes,No,0.0,0.0,No,Female,40-44,White,No,Yes,Good,6.0,Yes,No,No
+26,36.01,Yes,Yes,No,5.0,2.0,No,Male,45-49,American Indian/Alaskan Native,No,Yes,Very good,7.0,No,No,No
+27,27.31,Yes,Yes,No,0.0,30.0,No,Female,18-24,White,No,No,Fair,6.0,No,No,No
+28,23.9,No,No,No,7.0,0.0,No,Female,25-29,Hispanic,No,No,Excellent,8.0,No,No,No
+29,29.21,No,No,No,0.0,0.0,No,Female,45-49,Black,No,No,Very good,7.0,No,No,No

@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+2970,27.09,No,No,No,0.0,0.0,No,Female,45-49,White,Yes,Yes,Very good,7.0,No,No,Yes
+2971,24.71,Yes,No,No,0.0,10.0,No,Male,75-79,White,Yes,Yes,Very good,7.0,No,No,No
+2972,39.58,Yes,No,No,7.0,10.0,Yes,Male,70-74,White,Yes,No,Fair,4.0,No,Yes,No
+2973,28.35,Yes,No,No,1.0,2.0,Yes,Male,25-29,White,Yes,Yes,Good,6.0,Yes,No,No
+2974,23.26,Yes,Yes,No,0.0,2.0,No,Female,60-64,Asian,No,Yes,Very good,8.0,No,No,No
+2975,38.61,Yes,Yes,No,0.0,15.0,No,Female,45-49,White,Yes,No,Fair,6.0,No,No,No
+2976,31.76,No,Yes,No,1.0,3.0,No,Male,80 or older,White,No,Yes,Very good,7.0,No,No,Yes
+2977,28.97,Yes,No,No,0.0,2.0,No,Female,50-54,Black,Yes,Yes,Excellent,6.0,No,No,No
+2978,29.93,Yes,No,No,0.0,0.0,No,Female,18-24,White,No,Yes,Very good,8.0,No,No,No
+2979,27.95,Yes,Yes,No,0.0,0.0,No,Male,50-54,American Indian/Alaskan Native,Yes,Yes,Very good,5.0,No,No,No

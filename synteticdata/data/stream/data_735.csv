@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+7350,25.71,Yes,No,No,0.0,0.0,No,Female,80 or older,White,No,No,Very good,8.0,No,No,No
+7351,41.46,No,No,No,0.0,1.0,Yes,Male,60-64,White,No,Yes,Good,8.0,Yes,No,No
+7352,38.15,Yes,No,No,0.0,0.0,No,Male,80 or older,White,Yes,No,Good,8.0,No,No,No
+7353,27.81,Yes,No,No,0.0,0.0,No,Female,80 or older,White,No,Yes,Very good,8.0,No,No,No
+7354,26.73,Yes,Yes,No,0.0,0.0,No,Female,30-34,Other,No,No,Good,7.0,No,No,No
+7355,25.6,No,Yes,No,0.0,0.0,No,Female,18-24,White,No,Yes,Excellent,6.0,No,No,No
+7356,31.14,Yes,Yes,No,0.0,0.0,Yes,Male,65-69,White,No,Yes,Very good,8.0,No,No,No
+7357,24.36,No,No,No,0.0,1.0,No,Male,75-79,White,No,Yes,Very good,9.0,No,No,No
+7358,29.91,Yes,Yes,No,30.0,15.0,Yes,Female,75-79,White,Yes,Yes,Fair,6.0,No,No,Yes
+7359,23.06,Yes,No,No,0.0,2.0,No,Female,35-39,White,Yes (during pregnancy),Yes,Very good,7.0,No,No,No

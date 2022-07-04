@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+2370,23.98,No,Yes,No,3.0,0.0,No,Male,75-79,White,No,Yes,Good,8.0,No,No,Yes
+2371,31.68,Yes,Yes,No,2.0,0.0,No,Male,80 or older,White,No,Yes,Very good,8.0,No,No,No
+2372,32.08,No,No,No,0.0,0.0,No,Female,55-59,Hispanic,No,Yes,Very good,5.0,No,No,No
+2373,37.96,Yes,No,No,5.0,3.0,No,Female,30-34,White,Yes,Yes,Fair,7.0,No,No,No
+2374,26.12,Yes,No,No,0.0,0.0,No,Male,75-79,White,No,Yes,Very good,7.0,No,No,Yes
+2375,27.72,Yes,Yes,No,5.0,10.0,Yes,Male,55-59,White,No,Yes,Fair,8.0,No,No,No
+2376,22.99,No,No,No,0.0,0.0,No,Male,50-54,White,No,Yes,Very good,8.0,No,No,No
+2377,26.8,Yes,Yes,No,0.0,0.0,No,Female,80 or older,American Indian/Alaskan Native,No,No,Very good,8.0,Yes,No,No
+2378,21.22,No,Yes,No,5.0,0.0,Yes,Female,35-39,White,Yes (during pregnancy),Yes,Very good,7.0,No,No,No
+2379,36.86,No,No,No,30.0,10.0,Yes,Female,65-69,White,Yes,Yes,Fair,6.0,No,No,No

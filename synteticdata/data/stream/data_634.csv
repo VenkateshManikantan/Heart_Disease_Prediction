@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+6340,41.41,No,No,No,7.0,0.0,Yes,Female,45-49,White,No,Yes,Very good,6.0,No,No,No
+6341,27.17,Yes,No,No,0.0,0.0,Yes,Male,70-74,White,No,No,Fair,8.0,No,No,No
+6342,26.09,No,No,No,30.0,30.0,Yes,Female,75-79,White,Yes,No,Fair,6.0,Yes,No,No
+6343,22.63,Yes,No,No,0.0,0.0,Yes,Male,50-54,White,No,Yes,Very good,7.0,No,No,No
+6344,24.62,Yes,Yes,No,0.0,0.0,Yes,Male,75-79,White,No,Yes,Very good,8.0,No,No,Yes
+6345,31.73,Yes,No,No,0.0,0.0,No,Male,45-49,White,"No, borderline diabetes",Yes,Very good,7.0,No,No,No
+6346,26.09,Yes,Yes,No,0.0,0.0,No,Male,80 or older,White,No,Yes,Very good,7.0,No,No,Yes
+6347,27.67,Yes,Yes,No,0.0,0.0,No,Male,75-79,White,Yes,Yes,Very good,8.0,No,No,Yes
+6348,31.68,Yes,No,No,1.0,10.0,Yes,Male,45-49,American Indian/Alaskan Native,Yes,No,Good,7.0,Yes,No,No
+6349,35.83,No,Yes,No,1.0,10.0,Yes,Female,55-59,White,Yes,No,Fair,8.0,Yes,No,No

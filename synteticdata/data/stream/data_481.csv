@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+4810,29.27,Yes,Yes,No,0.0,0.0,Yes,Male,60-64,White,Yes,Yes,Good,7.0,No,No,No
+4811,34.34,No,No,No,0.0,0.0,No,Female,70-74,Black,Yes,No,Very good,8.0,No,No,No
+4812,26.1,No,No,No,3.0,30.0,Yes,Male,80 or older,Hispanic,No,No,Very good,6.0,Yes,No,No
+4813,32.77,Yes,No,No,0.0,10.0,No,Male,60-64,White,No,No,Very good,8.0,Yes,No,No
+4814,31.3,No,No,No,0.0,0.0,No,Male,75-79,White,Yes,Yes,Excellent,9.0,No,No,No
+4815,25.02,Yes,No,No,0.0,0.0,Yes,Male,45-49,American Indian/Alaskan Native,No,No,Fair,8.0,No,Yes,No
+4816,31.71,No,No,No,1.0,10.0,No,Male,55-59,White,No,Yes,Fair,4.0,No,No,No
+4817,32.18,Yes,No,No,0.0,0.0,No,Male,45-49,Hispanic,No,No,Very good,4.0,Yes,No,No
+4818,27.96,No,No,No,0.0,0.0,No,Female,40-44,White,No,Yes,Excellent,8.0,No,No,No
+4819,39.01,Yes,No,No,3.0,2.0,No,Male,50-54,White,No,Yes,Very good,7.0,No,No,No

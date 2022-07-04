@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+4310,39.17,No,Yes,No,0.0,0.0,No,Female,80 or older,White,No,Yes,Very good,6.0,No,No,No
+4311,26.76,No,No,No,0.0,0.0,No,Female,60-64,White,No,Yes,Very good,3.0,No,No,No
+4312,30.34,No,No,No,0.0,0.0,Yes,Male,75-79,White,Yes,No,Fair,8.0,No,No,No
+4313,24.05,Yes,Yes,No,0.0,10.0,Yes,Male,55-59,White,No,Yes,Very good,7.0,No,No,No
+4314,29.16,Yes,Yes,No,30.0,30.0,Yes,Male,60-64,White,Yes,No,Poor,4.0,Yes,No,Yes
+4315,34.42,Yes,No,No,0.0,0.0,No,Female,80 or older,White,No,Yes,Good,8.0,No,No,No
+4316,23.25,Yes,No,No,0.0,0.0,No,Male,25-29,White,Yes,No,Very good,8.0,No,No,No
+4317,24.39,Yes,Yes,No,0.0,10.0,No,Male,70-74,White,No,Yes,Very good,8.0,No,No,No
+4318,25.4,No,Yes,No,2.0,10.0,Yes,Female,70-74,White,Yes,No,Good,8.0,No,No,Yes
+4319,36.82,No,No,No,0.0,0.0,Yes,Male,80 or older,White,Yes,Yes,Very good,8.0,No,No,No

@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+4520,27.68,No,No,No,0.0,2.0,No,Female,70-74,White,No,No,Good,7.0,No,No,No
+4521,36.59,No,No,No,0.0,0.0,No,Female,65-69,White,Yes,Yes,Good,8.0,Yes,No,No
+4522,43.11,Yes,No,No,2.0,0.0,No,Male,70-74,White,"No, borderline diabetes",Yes,Good,8.0,No,No,No
+4523,25.55,No,No,No,0.0,0.0,No,Female,55-59,White,No,Yes,Very good,7.0,No,No,No
+4524,27.09,Yes,No,No,0.0,2.0,No,Male,40-44,White,No,Yes,Very good,7.0,No,No,No
+4525,28.72,Yes,Yes,No,2.0,5.0,No,Male,45-49,White,No,Yes,Very good,7.0,Yes,No,No
+4526,28.84,Yes,No,No,0.0,10.0,Yes,Female,50-54,Black,No,Yes,Very good,4.0,No,No,No
+4527,38.02,No,Yes,No,0.0,0.0,No,Male,80 or older,White,No,Yes,Very good,9.0,No,No,No
+4528,36.1,No,No,No,4.0,0.0,Yes,Male,40-44,Other,Yes,Yes,Good,8.0,Yes,No,No
+4529,33.43,Yes,Yes,No,5.0,0.0,Yes,Female,55-59,White,Yes,Yes,Very good,7.0,Yes,No,No

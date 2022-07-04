@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+9780,25.84,No,No,No,5.0,5.0,No,Male,55-59,American Indian/Alaskan Native,No,No,Good,8.0,No,No,No
+9781,26.29,Yes,No,No,0.0,0.0,No,Female,40-44,White,No,Yes,Good,7.0,Yes,No,No
+9782,41.52,Yes,Yes,No,2.0,15.0,No,Female,65-69,White,No,No,Good,8.0,No,No,No
+9783,32.07,No,No,No,0.0,0.0,No,Female,45-49,White,No,Yes,Very good,8.0,No,No,No
+9784,28.46,No,No,No,0.0,0.0,No,Male,65-69,Black,No,Yes,Very good,6.0,No,No,No
+9785,37.33,No,No,No,0.0,0.0,No,Female,55-59,Black,No,Yes,Very good,7.0,No,No,No
+9786,29.95,Yes,No,No,5.0,5.0,No,Female,65-69,White,No,No,Fair,8.0,Yes,No,Yes
+9787,33.05,No,No,No,0.0,0.0,No,Male,45-49,Asian,No,Yes,Very good,8.0,Yes,No,No
+9788,28.67,Yes,No,No,0.0,10.0,No,Female,75-79,White,Yes,Yes,Very good,6.0,No,No,No
+9789,28.63,Yes,Yes,No,0.0,10.0,No,Male,55-59,White,No,Yes,Very good,5.0,No,No,No

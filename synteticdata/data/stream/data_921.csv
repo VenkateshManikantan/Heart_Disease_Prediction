@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+9210,28.35,No,Yes,No,0.0,0.0,No,Male,70-74,White,No,Yes,Excellent,6.0,No,No,No
+9211,24.9,No,No,No,0.0,0.0,No,Female,45-49,White,No,No,Very good,7.0,No,No,No
+9212,32.7,Yes,No,No,0.0,0.0,No,Male,45-49,White,No,Yes,Very good,8.0,No,No,No
+9213,24.01,No,No,No,0.0,0.0,No,Male,65-69,White,Yes,Yes,Very good,8.0,No,No,No
+9214,23.93,No,No,No,0.0,5.0,No,Male,18-24,White,No,Yes,Very good,6.0,No,No,No
+9215,26.5,No,Yes,No,0.0,10.0,No,Female,25-29,White,Yes,Yes,Good,8.0,Yes,No,No
+9216,23.06,Yes,No,No,0.0,5.0,No,Male,60-64,White,No,Yes,Very good,8.0,Yes,No,No
+9217,30.91,No,No,No,2.0,1.0,No,Male,40-44,White,Yes,Yes,Very good,8.0,No,No,No
+9218,30.44,No,No,No,0.0,0.0,No,Male,80 or older,White,No,Yes,Good,8.0,No,No,Yes
+9219,28.63,No,Yes,No,0.0,30.0,No,Male,30-34,Other,No,No,Fair,4.0,No,No,No

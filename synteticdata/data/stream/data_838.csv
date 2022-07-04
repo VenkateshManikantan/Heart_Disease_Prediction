@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+8380,29.4,No,No,No,0.0,0.0,No,Male,80 or older,White,No,Yes,Very good,8.0,No,No,Yes
+8381,28.09,No,No,No,0.0,2.0,No,Female,45-49,American Indian/Alaskan Native,No,Yes,Very good,7.0,No,No,No
+8382,26.32,No,No,No,0.0,0.0,No,Male,80 or older,White,No,Yes,Excellent,7.0,No,No,No
+8383,38.72,Yes,No,No,7.0,0.0,Yes,Male,35-39,White,No,No,Good,8.0,Yes,No,No
+8384,25.82,Yes,No,No,2.0,3.0,No,Female,65-69,White,No,Yes,Good,6.0,No,No,No
+8385,30.92,No,No,Yes,0.0,0.0,No,Male,75-79,White,Yes,Yes,Good,9.0,No,No,No
+8386,30.35,Yes,No,No,4.0,0.0,No,Male,55-59,Hispanic,"No, borderline diabetes",Yes,Very good,7.0,Yes,No,No
+8387,32.79,No,No,No,0.0,0.0,No,Male,60-64,White,No,No,Very good,8.0,No,No,No
+8388,37.35,Yes,Yes,No,0.0,0.0,Yes,Female,45-49,White,No,No,Good,8.0,No,No,No
+8389,29.54,No,No,No,0.0,0.0,No,Female,80 or older,White,No,No,Very good,7.0,Yes,No,No

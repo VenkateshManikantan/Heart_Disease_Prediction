@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+9980,21.49,No,No,No,0.0,0.0,No,Male,65-69,White,No,No,Very good,8.0,No,No,No
+9981,27.85,Yes,No,No,0.0,0.0,No,Male,75-79,Black,No,Yes,Good,8.0,No,No,Yes
+9982,29.04,No,No,No,0.0,5.0,No,Female,30-34,White,No,Yes,Very good,7.0,No,No,No
+9983,26.06,Yes,No,No,2.0,15.0,No,Male,80 or older,White,Yes,Yes,Good,6.0,No,No,No
+9984,24.07,No,Yes,Yes,2.0,15.0,No,Female,80 or older,White,No,No,Fair,8.0,No,No,No
+9985,29.89,No,Yes,No,0.0,15.0,No,Female,35-39,White,Yes,Yes,Very good,6.0,No,No,No
+9986,31.42,No,No,Yes,0.0,10.0,Yes,Female,60-64,White,Yes,Yes,Fair,9.0,Yes,No,No
+9987,36.79,No,No,No,30.0,0.0,Yes,Male,70-74,White,Yes,No,Poor,4.0,No,No,No
+9988,32.91,Yes,No,No,0.0,0.0,No,Male,35-39,White,Yes,No,Good,7.0,No,No,No
+9989,30.48,Yes,No,No,0.0,0.0,No,Female,65-69,Hispanic,Yes,Yes,Poor,8.0,No,No,No

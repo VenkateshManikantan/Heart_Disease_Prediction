@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+8220,31.41,No,No,No,2.0,0.0,Yes,Female,70-74,White,No,Yes,Good,6.0,No,No,No
+8221,26.26,No,No,No,0.0,3.0,No,Female,18-24,White,No,Yes,Excellent,7.0,No,No,No
+8222,26.02,No,No,No,0.0,2.0,No,Female,50-54,White,No,Yes,Very good,7.0,No,No,No
+8223,26.45,Yes,Yes,No,0.0,15.0,Yes,Female,30-34,Other,No,No,Fair,6.0,Yes,No,No
+8224,29.35,Yes,No,No,0.0,0.0,No,Male,70-74,White,No,Yes,Very good,7.0,No,No,No
+8225,28.26,Yes,No,No,0.0,10.0,Yes,Female,60-64,White,Yes,No,Poor,8.0,No,No,No
+8226,35.79,Yes,Yes,No,0.0,1.0,No,Male,75-79,White,No,Yes,Very good,7.0,No,No,Yes
+8227,32.14,Yes,No,No,0.0,0.0,No,Male,80 or older,White,Yes,Yes,Very good,7.0,No,No,Yes
+8228,44.62,Yes,No,No,30.0,30.0,No,Male,60-64,American Indian/Alaskan Native,Yes,Yes,Poor,7.0,Yes,No,No
+8229,24.82,Yes,Yes,No,0.0,1.0,No,Female,75-79,White,No,No,Very good,7.0,No,No,Yes

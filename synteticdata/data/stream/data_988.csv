@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+9880,23.75,Yes,No,No,0.0,0.0,No,Male,60-64,White,Yes,Yes,Very good,8.0,No,No,No
+9881,20.58,No,No,No,0.0,0.0,No,Male,80 or older,White,Yes,No,Excellent,7.0,No,No,No
+9882,37.96,Yes,No,No,0.0,0.0,No,Male,45-49,White,No,Yes,Very good,7.0,Yes,No,No
+9883,23.86,No,No,No,0.0,0.0,No,Female,25-29,White,Yes,Yes,Very good,8.0,Yes,No,No
+9884,22.75,No,No,No,1.0,2.0,No,Female,80 or older,White,No,Yes,Very good,7.0,Yes,No,No
+9885,29.82,No,No,Yes,30.0,0.0,Yes,Male,80 or older,White,Yes,No,Poor,9.0,Yes,No,No
+9886,21.76,Yes,No,No,0.0,0.0,No,Female,35-39,White,No,Yes,Good,7.0,Yes,No,No
+9887,22.87,No,No,No,0.0,1.0,No,Female,45-49,White,No,Yes,Very good,7.0,Yes,No,No
+9888,22.49,No,No,No,0.0,2.0,Yes,Female,35-39,White,No,Yes,Very good,8.0,Yes,No,No
+9889,27.96,Yes,No,No,30.0,15.0,Yes,Male,35-39,American Indian/Alaskan Native,No,Yes,Fair,5.0,No,No,No

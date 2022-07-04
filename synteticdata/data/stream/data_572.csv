@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+5720,27.69,Yes,No,No,0.0,0.0,No,Male,60-64,White,No,Yes,Very good,7.0,No,No,No
+5721,41.6,No,No,No,0.0,0.0,Yes,Female,65-69,Black,Yes,Yes,Good,8.0,No,No,No
+5722,26.9,Yes,No,No,0.0,0.0,No,Male,50-54,White,No,Yes,Good,8.0,No,No,No
+5723,42.19,No,No,No,1.0,0.0,No,Female,70-74,White,No,Yes,Good,8.0,No,No,No
+5724,29.34,Yes,No,No,7.0,0.0,No,Male,65-69,White,Yes,Yes,Good,7.0,No,No,No
+5725,26.23,Yes,Yes,No,7.0,10.0,Yes,Female,50-54,White,No,Yes,Fair,8.0,Yes,No,No
+5726,34.48,Yes,No,No,5.0,0.0,No,Male,70-74,White,Yes,Yes,Very good,7.0,No,No,Yes
+5727,26.69,Yes,Yes,No,0.0,2.0,Yes,Female,80 or older,White,Yes,Yes,Fair,7.0,No,No,No
+5728,34.28,No,Yes,No,0.0,5.0,No,Female,50-54,White,No,Yes,Fair,7.0,No,No,No
+5729,28.54,Yes,No,No,0.0,5.0,Yes,Female,60-64,White,Yes,Yes,Fair,7.0,No,No,No

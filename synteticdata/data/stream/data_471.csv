@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+4710,26.53,Yes,Yes,No,0.0,3.0,No,Female,60-64,White,Yes,Yes,Very good,8.0,No,No,No
+4711,37.41,No,No,No,30.0,30.0,Yes,Female,60-64,Hispanic,Yes,No,Fair,7.0,No,No,No
+4712,31.0,No,No,No,0.0,30.0,No,Female,50-54,White,Yes,Yes,Fair,8.0,No,No,No
+4713,23.41,Yes,No,No,0.0,0.0,No,Female,25-29,White,Yes,No,Fair,6.0,No,No,No
+4714,42.92,Yes,No,No,0.0,30.0,Yes,Female,60-64,White,Yes,Yes,Poor,5.0,No,No,No
+4715,30.07,Yes,No,No,0.0,2.0,No,Male,45-49,White,No,Yes,Very good,7.0,No,No,No
+4716,41.84,Yes,Yes,No,7.0,15.0,No,Female,18-24,White,No,Yes,Fair,8.0,Yes,No,No
+4717,41.81,Yes,No,No,0.0,0.0,Yes,Male,70-74,White,Yes,No,Poor,8.0,No,No,No
+4718,25.29,No,No,No,0.0,0.0,No,Male,50-54,Other,Yes,Yes,Excellent,9.0,No,No,No
+4719,24.86,No,No,No,0.0,10.0,No,Female,25-29,White,Yes,Yes,Fair,6.0,No,No,No

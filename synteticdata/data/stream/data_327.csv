@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+3270,21.27,No,No,No,0.0,0.0,No,Female,45-49,White,No,Yes,Fair,8.0,Yes,No,No
+3271,21.96,No,Yes,No,0.0,0.0,No,Male,70-74,White,No,Yes,Very good,7.0,No,No,No
+3272,26.2,Yes,No,No,5.0,15.0,Yes,Female,70-74,White,Yes,Yes,Very good,6.0,Yes,No,No
+3273,22.64,No,No,No,0.0,0.0,No,Female,55-59,Black,No,Yes,Very good,5.0,No,No,No
+3274,25.88,No,No,No,2.0,5.0,No,Male,60-64,American Indian/Alaskan Native,No,Yes,Very good,6.0,No,No,No
+3275,43.94,Yes,Yes,No,30.0,30.0,Yes,Female,70-74,Black,Yes,No,Fair,5.0,Yes,No,No
+3276,34.98,No,No,No,0.0,10.0,No,Female,50-54,Other,No,Yes,Good,7.0,No,No,No
+3277,22.8,No,Yes,No,0.0,0.0,No,Male,30-34,White,No,Yes,Excellent,6.0,No,No,No
+3278,24.76,Yes,Yes,No,1.0,0.0,Yes,Female,55-59,White,Yes,Yes,Good,4.0,No,No,No
+3279,34.67,Yes,No,No,0.0,0.0,Yes,Female,30-34,White,No,Yes,Very good,4.0,Yes,No,No

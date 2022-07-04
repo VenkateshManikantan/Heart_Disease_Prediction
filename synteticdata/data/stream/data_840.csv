@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+8400,22.31,Yes,No,Yes,2.0,10.0,No,Male,45-49,Hispanic,No,Yes,Fair,6.0,No,No,No
+8401,29.72,Yes,No,No,30.0,30.0,No,Female,65-69,White,No,Yes,Good,4.0,Yes,No,No
+8402,28.16,Yes,Yes,No,0.0,0.0,No,Female,55-59,White,No,Yes,Very good,8.0,No,No,No
+8403,27.31,Yes,No,No,0.0,0.0,No,Female,25-29,American Indian/Alaskan Native,Yes (during pregnancy),Yes,Very good,7.0,No,No,No
+8404,27.07,No,No,No,0.0,0.0,No,Female,50-54,White,No,Yes,Very good,8.0,No,No,No
+8405,23.82,No,Yes,No,0.0,0.0,No,Female,60-64,White,No,Yes,Good,8.0,No,Yes,No
+8406,23.93,Yes,No,No,0.0,0.0,No,Female,80 or older,White,No,No,Very good,8.0,No,Yes,Yes
+8407,26.7,No,No,No,0.0,0.0,Yes,Male,55-59,Black,No,No,Fair,4.0,No,No,No
+8408,27.93,Yes,No,Yes,0.0,30.0,Yes,Male,55-59,White,Yes,Yes,Fair,4.0,No,No,No
+8409,23.3,No,No,No,2.0,0.0,Yes,Female,70-74,Hispanic,Yes,No,Poor,8.0,Yes,Yes,No

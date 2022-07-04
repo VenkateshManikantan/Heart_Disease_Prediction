@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+6940,30.43,Yes,No,No,0.0,0.0,No,Female,35-39,White,No,Yes,Good,7.0,Yes,No,No
+6941,37.4,No,No,No,5.0,0.0,Yes,Female,60-64,White,No,Yes,Fair,6.0,No,No,No
+6942,32.41,No,No,No,0.0,0.0,No,Male,40-44,White,No,Yes,Excellent,7.0,No,No,No
+6943,29.84,No,No,No,2.0,0.0,Yes,Male,60-64,White,Yes,No,Fair,9.0,No,No,No
+6944,31.8,Yes,Yes,No,0.0,0.0,No,Male,55-59,Asian,No,Yes,Very good,7.0,No,No,No
+6945,33.96,Yes,No,No,0.0,0.0,No,Male,50-54,White,No,Yes,Very good,7.0,No,No,Yes
+6946,22.71,Yes,No,No,0.0,0.0,No,Female,80 or older,White,No,No,Fair,4.0,No,No,Yes
+6947,21.26,Yes,No,No,0.0,0.0,Yes,Female,55-59,White,No,Yes,Excellent,8.0,No,No,No
+6948,41.91,Yes,Yes,No,7.0,2.0,Yes,Female,60-64,White,No,Yes,Fair,7.0,Yes,No,No
+6949,42.45,Yes,Yes,No,0.0,0.0,Yes,Female,60-64,White,Yes,No,Fair,8.0,No,No,No

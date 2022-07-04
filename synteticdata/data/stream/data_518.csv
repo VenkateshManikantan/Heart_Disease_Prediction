@@ -1,0 +1,11 @@
+,BMI,Smoking,AlcoholDrinking,Stroke,PhysicalHealth,MentalHealth,DiffWalking,Sex,AgeCategory,Race,Diabetic,PhysicalActivity,GenHealth,SleepTime,Asthma,KidneyDisease,SkinCancer
+5180,31.74,No,No,No,0.0,0.0,No,Male,70-74,Hispanic,"No, borderline diabetes",No,Very good,6.0,No,No,No
+5181,30.51,No,Yes,Yes,30.0,30.0,Yes,Male,55-59,White,Yes,No,Poor,4.0,Yes,Yes,No
+5182,28.94,Yes,Yes,No,30.0,0.0,Yes,Male,80 or older,White,No,Yes,Fair,7.0,No,No,Yes
+5183,28.25,Yes,No,No,0.0,10.0,No,Male,18-24,White,No,Yes,Excellent,6.0,No,No,No
+5184,30.34,Yes,Yes,No,0.0,10.0,Yes,Female,40-44,American Indian/Alaskan Native,Yes,Yes,Fair,6.0,No,No,Yes
+5185,33.77,Yes,Yes,No,7.0,10.0,Yes,Female,70-74,White,No,No,Fair,6.0,No,No,No
+5186,23.4,Yes,No,No,0.0,2.0,No,Male,18-24,White,No,Yes,Very good,7.0,Yes,No,No
+5187,32.15,Yes,Yes,No,30.0,10.0,Yes,Female,80 or older,White,Yes,No,Poor,9.0,No,Yes,No
+5188,31.38,Yes,No,No,0.0,0.0,No,Male,45-49,Hispanic,No,No,Very good,7.0,No,No,No
+5189,26.29,No,No,No,0.0,0.0,No,Male,50-54,Black,No,Yes,Excellent,7.0,No,No,No
